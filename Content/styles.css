@@ -1,0 +1,22 @@
+body {
+   background-image:url(https://s-media-cache-ak0.pinimg.com/originals/32/da/a7/32daa7cd305fcbb4041af0e9500dfa0d.jpg);
+}
+p{
+
+}
+#para1{
+    color: #ed9010;
+}
+#para2{
+    color:aquamarine;
+}
+#lower-paragraph{
+    font: bold 20px arial;
+}
+.upper-lower{
+    color:honeydew;
+}
+p{
+    background-color: aqua;
+
+}
